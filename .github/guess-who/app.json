@@ -1,0 +1,12 @@
+
+{
+  "appName": "Guess Who",
+  "appId": "com.sgrmhn.guesswho",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "apkName": "Guess-Who",
+  "url": "https://sgrmhn.github.io/guess-who/",
+  "orientation": "portrait",
+  "backgroundColor": "#0f1115",
+  "splashColor": "#0f1115"
+}
